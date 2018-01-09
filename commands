@@ -1,0 +1,19 @@
+cd /* change directory e.g cd ~/Desktop */
+mkdir DIR_NAME /* create a new folder with name DIR_NAME */
+touch FILE_NAME /* create a new file with name FILE_NAME */
+
+/*******************
+* GIT
+* 
+*******************/
+// create a new local repository
+1. cd path_to_folder
+2. git init 
+3. git clone GIT_URL
+
+// work with git
+1. git pull origin master
+2. do your coding / jobs
+3. git add -A
+4. git commit -m "message"
+5. git push origin master
